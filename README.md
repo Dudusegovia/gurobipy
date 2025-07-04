@@ -16,11 +16,11 @@
 #### Problemas de corte (Cutting Stock Problems)
 
 ## 📦 Tecnologias Utilizadas
-## Python 3.x
+#### Python 
 
-## Gurobi Optimizer
+#### Gurobi Optimizer
 
-## GurobiPy
+#### GurobiPy
 
 ## 📚 Conceitos Abordados
 #### Programação Linear (Linear Programming - LP)
